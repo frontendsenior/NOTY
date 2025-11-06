@@ -1,0 +1,1 @@
+export { generateRejection } from './api';
